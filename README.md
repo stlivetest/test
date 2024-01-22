@@ -4,3 +4,5 @@ TESTRemoteRepositry
 こんにちは
 
 Goodbye
+
+さよなら
