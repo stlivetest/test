@@ -2,3 +2,5 @@
 TESTRemoteRepositry
 
 こんにちは
+
+Goodbye
