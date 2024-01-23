@@ -6,3 +6,5 @@ TESTRemoteRepositry
 Goodbye
 
 さよなら
+
+リモートリポジトリの変更
