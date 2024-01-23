@@ -6,3 +6,5 @@ TESTRemoteRepositry
 Goodbye
 
 さよなら
+
+ローカルの変更
