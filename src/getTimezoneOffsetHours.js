@@ -4,4 +4,4 @@ function getTimezoneOffsetHours(params) {
 
 }
 module.exports = getTimezoneOffsetHours;
-
+A1
